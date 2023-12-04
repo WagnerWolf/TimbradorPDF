@@ -1,0 +1,1 @@
+python\App\Python\python.exe pdf.py
